@@ -1,3 +1,3 @@
 <?php
 
-echo ' branch master';
+echo ' branch test';
